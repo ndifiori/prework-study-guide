@@ -1,6 +1,6 @@
 
 
-# <Pre-Work Study Guide Webpage>
+# Pre-Work Study Guide Webpage
 
 ## Description
 
